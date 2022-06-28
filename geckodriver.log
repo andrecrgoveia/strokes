@@ -1,0 +1,258 @@
+1656358262697	geckodriver	INFO	Listening on 127.0.0.1:54421
+1656358402867	geckodriver	INFO	Listening on 127.0.0.1:56181
+1656358759881	geckodriver	INFO	Listening on 127.0.0.1:57401
+1656358944818	geckodriver	INFO	Listening on 127.0.0.1:40049
+1656358952839	geckodriver	INFO	Listening on 127.0.0.1:59589
+Exec failed with error: No such file or directory
+1656368332283	geckodriver	INFO	Listening on 127.0.0.1:38045
+Exec failed with error: No such file or directory
+1656368522129	geckodriver	INFO	Listening on 127.0.0.1:34007
+1656368522139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4oGDxQ"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656368555903	geckodriver	INFO	Listening on 127.0.0.1:41581
+1656368555910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFQBCWP"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656368567856	geckodriver	INFO	Listening on 127.0.0.1:55331
+1656368567862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "39745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeuZNC0"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656368691292	geckodriver	INFO	Listening on 127.0.0.1:39469
+1656368691299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "41055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqiIThk"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656368877419	geckodriver	INFO	Listening on 127.0.0.1:45089
+1656368877426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWaitZF"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656368966069	geckodriver	INFO	Listening on 127.0.0.1:46861
+1656368966076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5tmKQj"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656368981757	geckodriver	INFO	Listening on 127.0.0.1:38151
+1656368981763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileniEnr3"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369014625	geckodriver	INFO	Listening on 127.0.0.1:42281
+1656369014631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "60671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewsVmwR"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369062033	geckodriver	INFO	Listening on 127.0.0.1:59689
+1656369062039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "46949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA9mrvQ"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369243892	geckodriver	INFO	Listening on 127.0.0.1:58295
+1656369243898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "50787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRp6CiF"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369284336	geckodriver	INFO	Listening on 127.0.0.1:38291
+1656369284342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQKxWSB"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369373845	geckodriver	INFO	Listening on 127.0.0.1:41433
+1656369373852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "46161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileofPexT"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369417337	geckodriver	INFO	Listening on 127.0.0.1:42345
+1656369417344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXPGCJp"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369430340	geckodriver	INFO	Listening on 127.0.0.1:50143
+1656369430347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebmNXqr"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369453558	geckodriver	INFO	Listening on 127.0.0.1:48389
+1656369453564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen4S20w"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369457082	geckodriver	INFO	Listening on 127.0.0.1:46183
+1656369457088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKHM4Pr"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/andrecrgoveia/.Xauthority which is owned by andrecrgoveia.)
+1656369501854	geckodriver	INFO	Listening on 127.0.0.1:35783
+1656369501861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWP9uMo"
+*** You are running in headless mode.
+1656369502293	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55785
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWP9uMo/search.json.mozlz4", (void 0)))
+1656369503721	Marionette	INFO	Listening on port 36395
+Read port: 36395
+1656369503798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55785/devtools/browser/40ef55fd-34e0-4352-a300-69bd4ced1c98
+1656369515901	Marionette	INFO	Stopped listening on port 36395
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1656369523598	geckodriver	INFO	Listening on 127.0.0.1:53391
+1656369523610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefrmgmG"
+*** You are running in headless mode.
+1656369524235	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:33905
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefrmgmG/search.json.mozlz4", (void 0)))
+1656369525700	Marionette	INFO	Listening on port 41137
+Read port: 41137
+1656369525753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:33905/devtools/browser/b8977817-f17c-49cf-a11e-92d6bd53e5ea
+1656369535896	Marionette	INFO	Stopped listening on port 41137
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656370703819	geckodriver	INFO	Listening on 127.0.0.1:32877
+1656370703825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "59851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePdlE3s"
+*** You are running in headless mode.
+1656370704266	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59851
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePdlE3s/search.json.mozlz4", (void 0)))
+1656370705831	Marionette	INFO	Listening on port 42097
+DevTools listening on ws://localhost:59851/devtools/browser/d7d6180a-a46a-447a-8160-5e7ba788af45
+Read port: 42097
+1656370705946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656370719806	geckodriver	INFO	Listening on 127.0.0.1:57995
+1656370719812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "57245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJH3Pbl"
+*** You are running in headless mode.
+1656370720253	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57245
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJH3Pbl/search.json.mozlz4", (void 0)))
+1656370721711	Marionette	INFO	Listening on port 34417
+Read port: 34417
+1656370721733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57245/devtools/browser/b3a625d4-6b06-458d-b578-2bfa226bbc77
+1656370732565	Marionette	INFO	Stopped listening on port 34417
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656370959744	geckodriver	INFO	Listening on 127.0.0.1:45429
+1656370959753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "46937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewjfWSt"
+*** You are running in headless mode.
+1656370960223	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:46937
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewjfWSt/search.json.mozlz4", (void 0)))
+1656370961786	Marionette	INFO	Listening on port 43293
+DevTools listening on ws://localhost:46937/devtools/browser/00af5ee7-c2c5-40ce-b498-dd0250592705
+Read port: 43293
+1656370961882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656370972656	Marionette	INFO	Stopped listening on port 43293
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1656371239798	geckodriver	INFO	Listening on 127.0.0.1:48165
+1656371239805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "36651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDeALC9"
+*** You are running in headless mode.
+1656371240243	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:36651
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDeALC9/search.json.mozlz4", (void 0)))
+1656371241727	Marionette	INFO	Listening on port 38403
+DevTools listening on ws://localhost:36651/devtools/browser/56f5523d-710b-4a7b-9602-347c0bfac84b
+Read port: 38403
+1656371241830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656371256113	Marionette	INFO	Stopped listening on port 38403
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1656371297780	geckodriver	INFO	Listening on 127.0.0.1:51491
+1656371297785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefC7RS1"
+*** You are running in headless mode.
+1656371298225	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:44501
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefC7RS1/search.json.mozlz4", (void 0)))
+1656371299860	Marionette	INFO	Listening on port 35469
+DevTools listening on ws://localhost:44501/devtools/browser/b946a957-203f-4d7a-8d2a-1c269896eda3
+Read port: 35469
+1656371299914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656371310572	Marionette	INFO	Stopped listening on port 35469
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656371358995	geckodriver	INFO	Listening on 127.0.0.1:55551
+1656371359003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMKADA4"
+*** You are running in headless mode.
+1656371359459	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:35799
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMKADA4/search.json.mozlz4", (void 0)))
+1656371360912	Marionette	INFO	Listening on port 45179
+DevTools listening on ws://localhost:35799/devtools/browser/73d53658-fee8-4f76-a7a6-bc23c72dc2b6
+Read port: 45179
+1656371361024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656371371717	Marionette	INFO	Stopped listening on port 45179
+1656371397083	geckodriver	INFO	Listening on 127.0.0.1:43075
+1656371397091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilest0cJF"
+*** You are running in headless mode.
+1656371397550	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:43241
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilest0cJF/search.json.mozlz4", (void 0)))
+1656371399124	Marionette	INFO	Listening on port 33227
+DevTools listening on ws://localhost:43241/devtools/browser/f508bac0-7ebd-4a10-9741-221d40418a92
+Read port: 33227
+1656371399213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656371412612	Marionette	INFO	Stopped listening on port 33227
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1656371518164	geckodriver	INFO	Listening on 127.0.0.1:34149
+1656371518169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "59373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepHSPaJ"
+*** You are running in headless mode.
+1656371518641	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59373
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepHSPaJ/search.json.mozlz4", (void 0)))
+1656371520253	Marionette	INFO	Listening on port 42325
+Read port: 42325
+1656371520292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:59373/devtools/browser/07a90607-8d21-413b-a453-68f4804a1b5e
+1656371533074	Marionette	INFO	Stopped listening on port 42325
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656371654323	geckodriver	INFO	Listening on 127.0.0.1:50081
+1656371654328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCcsKvs"
+*** You are running in headless mode.
+1656371654761	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:44701
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCcsKvs/search.json.mozlz4", (void 0)))
+1656371656349	Marionette	INFO	Listening on port 40397
+DevTools listening on ws://localhost:44701/devtools/browser/40c3cb5b-51ad-49ed-8481-b592c2cdb981
+Read port: 40397
+1656371656460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656371679888	Marionette	INFO	Stopped listening on port 40397
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1656371738280	geckodriver	INFO	Listening on 127.0.0.1:45393
+1656371738285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile83pRu3"
+*** You are running in headless mode.
+1656371738713	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:43581
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile83pRu3/search.json.mozlz4", (void 0)))
+1656371740245	Marionette	INFO	Listening on port 44677
+DevTools listening on ws://localhost:43581/devtools/browser/887a43e7-29af-4225-b534-f005c156b5d3
+Read port: 44677
+1656371740311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656371756587	Marionette	INFO	Stopped listening on port 44677
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1656371785080	geckodriver	INFO	Listening on 127.0.0.1:39629
+1656371785085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejGAFld"
+*** You are running in headless mode.
+1656371785547	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:45945
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejGAFld/search.json.mozlz4", (void 0)))
+1656371786988	Marionette	INFO	Listening on port 34865
+DevTools listening on ws://localhost:45945/devtools/browser/f3b7745d-97f0-4608-838d-90d476b33bd1
+Read port: 34865
+1656371787111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656371811237	Marionette	INFO	Stopped listening on port 34865
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
