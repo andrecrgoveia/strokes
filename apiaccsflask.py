@@ -1,7 +1,6 @@
 from flask import Flask
 from flask import request
 from selenium import webdriver
-# from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.keys import Keys
@@ -26,8 +25,6 @@ def nifValidator():
 
 
     # Instance of Firefox WebDriver is created. 
-    # inside container must be /python-docker
-    # driver = webdriver.Firefox(executable_path='/python-docker/geckodriver', options=options)
     driver = webdriver.Chrome(executable_path='/python-docker/chromedriver', options=options)
 
 
@@ -46,14 +43,19 @@ def nifValidator():
     click_validar.click()
 
 
-    # Sleep 5 seconds to result
-    sleep(10)
+    # Sleep 3 seconds to result
+    sleep(3)
 
 
     # Locating the element
-    nif_info = driver.find_element(By.XPATH, "//*[@id='nif_tipo_nif_info']").text
-    nif_text = nif_info
+    # nif_info = driver.find_element_by_xpath("//*[@id='nif_tipo_nif_info']").text
+    nif_info = 'A validar documento...'
 
+    while nif_info == 'A validar documento...':
+        # nif_info = driver.find_element_by_xpath("//*[@id='nif_tipo_nif_info']").text
+        nif_info = driver.find_element(By.XPATH, "//*[@id='nif_tipo_nif_info']").text
+        if nif_info != 'A validar documento...':
+            break
 
     # Locating and get the element
     name_field = driver.find_element(By.XPATH, "/html/body/div[2]/div/form/fieldset/table/tbody/tr[2]/td/input")
@@ -64,7 +66,7 @@ def nifValidator():
     driver.quit()
 
     # return nif_text, name_field_text
-    return jsonify(nif_text, name_field_text)
+    return jsonify(nif_info, name_field_text)
 
 
 if __name__ == "__main__":
